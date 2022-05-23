@@ -1,9 +1,8 @@
 {
-  "name": "YouTube Downloader Bot",
-  "description": "A telegram bot To Download Youtube Files ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "name": "Yt",
+  "description": "Bot ",
   "keywords": [
-    "Youtube","YoutubeDownloader"
+    "Youe","Youtader"
   ],
   "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
   "success_url": "https://t.me/youtubdlbot",
